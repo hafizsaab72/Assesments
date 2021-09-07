@@ -21,6 +21,9 @@ const CounterScreen  = () => {
        }}
        />
     <Text>Current count : {counter}</Text>
+    <Text>
+        hello world!
+    </Text>
     </View>
 }
 
